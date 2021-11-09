@@ -3,7 +3,7 @@
 
 DNS works like a Phone book of Internet. All servers in the internet will be hosted with its IP address. As we humans cannot remmember IP address of all servers we connect , we remember its Domain names. Thats where DNS comes in. DNS stands for Domain Name System. It maps all the domain names which we surf in the internet to its corresponding IP address. Can we imagine a world without DNS ??\
 __So what is DNS spoofing then??__\
-If victim surfs google.com in his web-browser and we as a attacker grabs all the packets sent from victim's PC and redirect him to spoofed webpage which look alike google. Since we are using bettercap for this purpose we can also grab all the credentials entere by victim on our spoofed webpage.
+If victim surfs google.com in his web-browser and we as a attacker grabs all the packets sent from victim's PC and redirect him to spoofed webpage which look alike google. Since we are using bettercap for this purpose we can also grab all the credentials entered by victim on our spoofed webpage.
 
 ## Installation
 
